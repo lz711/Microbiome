@@ -1,4 +1,4 @@
-# Microbiome
+# CRC Microbiome
 
 Pipeline for microbiome composition and function analysis using unmapped Next Generation Sequencing (NGS) data.
 
